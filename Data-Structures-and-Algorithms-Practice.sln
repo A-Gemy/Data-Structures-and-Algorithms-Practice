@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Browser-Back-Button", "0
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Queue-Stack", "01-Queue-Stack", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Convert-Decimal-To-Binary", "01-Queue-Stack\02-Convert-Decimal-To-Binary\02-Convert-Decimal-To-Binary.csproj", "{ABC1E4A1-D2B0-4BF9-AFC0-9A960027ABCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +19,17 @@ Global
 		{DB1EB131-5965-43BF-885A-C901673C1A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB1EB131-5965-43BF-885A-C901673C1A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB1EB131-5965-43BF-885A-C901673C1A15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABC1E4A1-D2B0-4BF9-AFC0-9A960027ABCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC1E4A1-D2B0-4BF9-AFC0-9A960027ABCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC1E4A1-D2B0-4BF9-AFC0-9A960027ABCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC1E4A1-D2B0-4BF9-AFC0-9A960027ABCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{DB1EB131-5965-43BF-885A-C901673C1A15} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{ABC1E4A1-D2B0-4BF9-AFC0-9A960027ABCF} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

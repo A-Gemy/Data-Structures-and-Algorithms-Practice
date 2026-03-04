@@ -22,8 +22,8 @@ namespace Browser_Back_Button
 
     class Browser
     {
-        private Stack<WebPage> backStack = new Stack<WebPage>();
-        private Stack<WebPage> forwardStack = new Stack<WebPage>();
+        private readonly Stack<WebPage> backStack = new Stack<WebPage>();
+        private readonly Stack<WebPage> forwardStack = new Stack<WebPage>();
         private WebPage currentPage;
 
 

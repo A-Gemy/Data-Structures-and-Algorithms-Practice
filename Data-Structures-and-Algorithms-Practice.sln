@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-Traffic-Signal-System-Si
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-Ticketing-System-Simulation", "01-Queue-Stack\06-Ticketing-System-Simulation\06-Ticketing-System-Simulation.csproj", "{CDC90C6B-E112-41EA-A349-2FE4A9A674B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-Simple-Backtracking", "01-Queue-Stack\07-Simple-Backtracking\07-Simple-Backtracking.csproj", "{6C7A87E9-A553-4B2C-A956-7FBC96AF68BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{CDC90C6B-E112-41EA-A349-2FE4A9A674B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDC90C6B-E112-41EA-A349-2FE4A9A674B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDC90C6B-E112-41EA-A349-2FE4A9A674B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C7A87E9-A553-4B2C-A956-7FBC96AF68BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C7A87E9-A553-4B2C-A956-7FBC96AF68BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C7A87E9-A553-4B2C-A956-7FBC96AF68BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C7A87E9-A553-4B2C-A956-7FBC96AF68BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +64,7 @@ Global
 		{BD8AF3B1-B6A7-4586-9E68-01433888589D} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{99CE70B8-BDBE-4638-ACA7-1F99C56EA646} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{CDC90C6B-E112-41EA-A349-2FE4A9A674B4} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{6C7A87E9-A553-4B2C-A956-7FBC96AF68BB} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

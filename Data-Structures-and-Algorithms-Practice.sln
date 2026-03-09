@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-Web-Page-Request-Handlin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-Reverse-a-Queue", "01-Queue-Stack\11-Reverse-a-Queue\11-Reverse-a-Queue.csproj", "{0C5233A3-7B58-4E4F-B4D5-77269ECBCC36}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-Palindrome-Queue", "01-Queue-Stack\12-Palindrome-Queue\12-Palindrome-Queue.csproj", "{DA4A2F9E-746C-46A8-9588-1A17428AA2F0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{0C5233A3-7B58-4E4F-B4D5-77269ECBCC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C5233A3-7B58-4E4F-B4D5-77269ECBCC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C5233A3-7B58-4E4F-B4D5-77269ECBCC36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA4A2F9E-746C-46A8-9588-1A17428AA2F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA4A2F9E-746C-46A8-9588-1A17428AA2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA4A2F9E-746C-46A8-9588-1A17428AA2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA4A2F9E-746C-46A8-9588-1A17428AA2F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -93,6 +99,7 @@ Global
 		{A776FC46-1D5D-45D7-AF50-5DBAA1BEA340} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{91D29208-01E5-4449-A52D-AA6B39DDBD3A} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{0C5233A3-7B58-4E4F-B4D5-77269ECBCC36} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{DA4A2F9E-746C-46A8-9588-1A17428AA2F0} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

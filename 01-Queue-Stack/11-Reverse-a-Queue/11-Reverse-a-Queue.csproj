@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{91D29208-01E5-4449-A52D-AA6B39DDBD3A}</ProjectGuid>
+    <ProjectGuid>{0C5233A3-7B58-4E4F-B4D5-77269ECBCC36}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_10_Web_Page_Request_Handling</RootNamespace>
-    <AssemblyName>10-Web-Page-Request-Handling</AssemblyName>
+    <RootNamespace>_11_Reverse_a_Queue</RootNamespace>
+    <AssemblyName>11-Reverse-a-Queue</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

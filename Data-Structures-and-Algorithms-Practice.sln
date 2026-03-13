@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-Generate-Binary-Numbers"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-Sort-a-Queue", "01-Queue-Stack\14-Sort-a-Queue\14-Sort-a-Queue.csproj", "{C123D6DB-958D-45E6-8D9F-BA50E47EAFA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-Interleave-Queue-Elements", "01-Queue-Stack\15-Interleave-Queue-Elements\15-Interleave-Queue-Elements.csproj", "{EC5A0A86-74B1-4AE3-B327-AA831D3FFD21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,6 +97,10 @@ Global
 		{C123D6DB-958D-45E6-8D9F-BA50E47EAFA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C123D6DB-958D-45E6-8D9F-BA50E47EAFA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C123D6DB-958D-45E6-8D9F-BA50E47EAFA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC5A0A86-74B1-4AE3-B327-AA831D3FFD21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC5A0A86-74B1-4AE3-B327-AA831D3FFD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC5A0A86-74B1-4AE3-B327-AA831D3FFD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC5A0A86-74B1-4AE3-B327-AA831D3FFD21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -114,6 +120,7 @@ Global
 		{DA4A2F9E-746C-46A8-9588-1A17428AA2F0} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{F17D1E7C-14E0-4F05-AAEC-0C99035CE212} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{C123D6DB-958D-45E6-8D9F-BA50E47EAFA9} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{EC5A0A86-74B1-4AE3-B327-AA831D3FFD21} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

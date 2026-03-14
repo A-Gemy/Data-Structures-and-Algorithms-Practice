@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-Sort-a-Queue", "01-Queue
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-Interleave-Queue-Elements", "01-Queue-Stack\15-Interleave-Queue-Elements\15-Interleave-Queue-Elements.csproj", "{EC5A0A86-74B1-4AE3-B327-AA831D3FFD21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-Rotate-a-Queue", "01-Queue-Stack\16-Rotate-a-Queue\16-Rotate-a-Queue.csproj", "{DC53E642-95D1-4F7B-8D55-8ED00616CD57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +103,10 @@ Global
 		{EC5A0A86-74B1-4AE3-B327-AA831D3FFD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC5A0A86-74B1-4AE3-B327-AA831D3FFD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC5A0A86-74B1-4AE3-B327-AA831D3FFD21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC53E642-95D1-4F7B-8D55-8ED00616CD57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC53E642-95D1-4F7B-8D55-8ED00616CD57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC53E642-95D1-4F7B-8D55-8ED00616CD57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC53E642-95D1-4F7B-8D55-8ED00616CD57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -121,6 +127,7 @@ Global
 		{F17D1E7C-14E0-4F05-AAEC-0C99035CE212} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{C123D6DB-958D-45E6-8D9F-BA50E47EAFA9} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{EC5A0A86-74B1-4AE3-B327-AA831D3FFD21} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{DC53E642-95D1-4F7B-8D55-8ED00616CD57} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

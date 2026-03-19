@@ -56,6 +56,11 @@ namespace Queue_Using_Two_Stacks
             return outputStack.Peek();
         }
 
+        public bool IsEmpty()
+        {
+            return inputStack.Count == 0 && outputStack.Count == 0;
+        }
+
     }
 
     class Program
@@ -65,18 +70,22 @@ namespace Queue_Using_Two_Stacks
         {
             MyQueue queue = new MyQueue();
 
+            Console.WriteLine("Is Empty: " + queue.IsEmpty());
+
             queue.Enqueue(1);
             queue.Enqueue(2);
             queue.Enqueue(3);
 
-            Console.WriteLine("Count: " + queue.Count);      // 3
-            Console.WriteLine("Peek: " + queue.Peek());      // 1
-            Console.WriteLine("Dequeue: " + queue.Dequeue()); // 1
-            Console.WriteLine("Dequeue: " + queue.Dequeue()); // 2
-            Console.WriteLine("Count: " + queue.Count);      // 1
-            Console.WriteLine("Peek: " + queue.Peek());      // 3
-            Console.WriteLine("Dequeue: " + queue.Dequeue()); // 3
-            Console.WriteLine("Count: " + queue.Count);      // 0
+            Console.WriteLine("Is Empty: " + queue.IsEmpty());
+            Console.WriteLine("Count: " + queue.Count);
+            Console.WriteLine("Peek: " + queue.Peek());
+            Console.WriteLine("Dequeue: " + queue.Dequeue());
+            Console.WriteLine("Dequeue: " + queue.Dequeue());
+            Console.WriteLine("Count: " + queue.Count);
+            Console.WriteLine("Peek: " + queue.Peek());
+            Console.WriteLine("Dequeue: " + queue.Dequeue());
+            Console.WriteLine("Count: " + queue.Count);
+            Console.WriteLine("Is Empty: " + queue.IsEmpty());
 
             // This will throw an exception
             try

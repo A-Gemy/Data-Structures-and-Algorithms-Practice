@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-First-Non-Repeating-Char
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-Queue-Using-Two-Stacks", "01-Queue-Stack\19-Queue-Using-Two-Stacks\19-Queue-Using-Two-Stacks.csproj", "{46C40AD1-DA46-43B5-B6B9-84D46F4DA64F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-Rearrange-Queue-Alternately", "01-Queue-Stack\20-Rearrange-Queue-Alternately\20-Rearrange-Queue-Alternately.csproj", "{3DC52916-4725-4682-8876-D4720EEE3315}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,10 @@ Global
 		{46C40AD1-DA46-43B5-B6B9-84D46F4DA64F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46C40AD1-DA46-43B5-B6B9-84D46F4DA64F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46C40AD1-DA46-43B5-B6B9-84D46F4DA64F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC52916-4725-4682-8876-D4720EEE3315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC52916-4725-4682-8876-D4720EEE3315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC52916-4725-4682-8876-D4720EEE3315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC52916-4725-4682-8876-D4720EEE3315}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -149,6 +155,7 @@ Global
 		{042EDEFB-4D83-43D2-8F0E-EC8B0910879E} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{AE70B80E-6603-42F3-9276-CD9AEA3F5829} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{46C40AD1-DA46-43B5-B6B9-84D46F4DA64F} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{3DC52916-4725-4682-8876-D4720EEE3315} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

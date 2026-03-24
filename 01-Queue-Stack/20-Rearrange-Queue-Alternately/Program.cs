@@ -58,6 +58,29 @@ namespace Rearrange_Queue_Alternately
             return true;
         }
 
+        private static Queue<T> RearrangeAlternatelyWithList<T>(Queue<T> queue)
+        {
+            List<T> list = new List<T>(queue);
+            Queue<T> result = new Queue<T>();
+            int count = list.Count;
+
+            // Take one element from the beginning, then one from the end.
+            for (int i = 0; i < count / 2; i++)
+            {
+                result.Enqueue(list[i]);
+                result.Enqueue(list[count - i - 1]);
+            }
+
+            // If the queue has an odd number of elements, add the middle one at the end.
+            if (count % 2 != 0)
+            {
+                result.Enqueue(list[count / 2]);
+            }
+
+            return result;
+        }
+
+
         static void Main()
         {
             Queue<int> queue = BuildQueue(1, 6);
@@ -65,8 +88,12 @@ namespace Rearrange_Queue_Alternately
 
             if (RearrangeAlternately(queue))
             {
-                Console.WriteLine("Rearranged Queue: " + string.Join(", ", queue));
+                Console.WriteLine("Rearranged Queue using Queue and Stack: " + string.Join(", ", queue));
             }
+
+            Queue<int> queue2 = BuildQueue(1, 6);
+            Queue<int> rearrangedQueue = RearrangeAlternatelyWithList(queue2);
+            Console.WriteLine("Rearranged Queue using List: " + string.Join(", ", rearrangedQueue));
 
 
             Console.ReadKey();

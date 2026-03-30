@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22-Rearrange-Even-and-Odd-E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23-Clone-a-Queue-Without-Extra-Space", "01-Queue-Stack\23-Clone-a-Queue-Without-Extra-Space\23-Clone-a-Queue-Without-Extra-Space.csproj", "{4A97BDAE-78EA-409D-B42C-3D1BCD8989FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24-Find-Middle-Element-in-a-Queue", "01-Queue-Stack\24-Find-Middle-Element-in-a-Queue\24-Find-Middle-Element-in-a-Queue.csproj", "{77988B64-D396-49DF-BE6C-DFFD695730FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -149,6 +151,10 @@ Global
 		{4A97BDAE-78EA-409D-B42C-3D1BCD8989FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4A97BDAE-78EA-409D-B42C-3D1BCD8989FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4A97BDAE-78EA-409D-B42C-3D1BCD8989FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77988B64-D396-49DF-BE6C-DFFD695730FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77988B64-D396-49DF-BE6C-DFFD695730FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77988B64-D396-49DF-BE6C-DFFD695730FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77988B64-D396-49DF-BE6C-DFFD695730FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -177,6 +183,7 @@ Global
 		{0CA56B5F-4E69-4EEF-8C6A-0522FA498E80} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{1B02B99F-1231-4D6B-9C01-2A4272E7C5F0} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{4A97BDAE-78EA-409D-B42C-3D1BCD8989FE} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{77988B64-D396-49DF-BE6C-DFFD695730FB} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

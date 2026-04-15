@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27-Check-palindrome-using-S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28-Evaluate-Postfix-Expression", "01-Queue-Stack\28-Evaluate-Postfix-Expression\28-Evaluate-Postfix-Expression.csproj", "{9B4FF844-4FD7-45F4-B21A-A3AF766ABA50}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29-Basic-Calculator", "01-Queue-Stack\29-Basic-Calculator\29-Basic-Calculator.csproj", "{4CD57098-F0DE-4F1E-97F5-F888D1E50E3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -179,6 +181,10 @@ Global
 		{9B4FF844-4FD7-45F4-B21A-A3AF766ABA50}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B4FF844-4FD7-45F4-B21A-A3AF766ABA50}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B4FF844-4FD7-45F4-B21A-A3AF766ABA50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD57098-F0DE-4F1E-97F5-F888D1E50E3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD57098-F0DE-4F1E-97F5-F888D1E50E3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD57098-F0DE-4F1E-97F5-F888D1E50E3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD57098-F0DE-4F1E-97F5-F888D1E50E3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -212,6 +218,7 @@ Global
 		{E0386A1F-56F4-407A-BA1D-02CE2BB8E404} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{EF9907EF-A0DD-40B7-8A29-006C8FE2CA95} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{9B4FF844-4FD7-45F4-B21A-A3AF766ABA50} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{4CD57098-F0DE-4F1E-97F5-F888D1E50E3C} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

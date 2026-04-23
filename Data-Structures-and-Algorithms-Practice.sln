@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Store-Retrieve-Student-G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Store-Book-Information", "02-Dictionary-HashSet\02-Store-Book-Information\02-Store-Book-Information.csproj", "{E79810C0-ECD4-4936-946C-7D4F36533A32}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-Translate-Words-Between-Languages", "02-Dictionary-HashSet\03-Translate-Words-Between-Languages\03-Translate-Words-Between-Languages.csproj", "{53E23FB7-4CDC-4773-B967-44356DBD04FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{E79810C0-ECD4-4936-946C-7D4F36533A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E79810C0-ECD4-4936-946C-7D4F36533A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E79810C0-ECD4-4936-946C-7D4F36533A32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53E23FB7-4CDC-4773-B967-44356DBD04FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E23FB7-4CDC-4773-B967-44356DBD04FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E23FB7-4CDC-4773-B967-44356DBD04FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E23FB7-4CDC-4773-B967-44356DBD04FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -250,6 +256,7 @@ Global
 		{605EB37A-BCD0-432B-9879-EB1AAB812D12} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{419BFDAC-53A5-44C0-A0AA-0DF0198AA764} = {AE79AE8C-1BF9-4852-981E-D982B8601CD8}
 		{E79810C0-ECD4-4936-946C-7D4F36533A32} = {AE79AE8C-1BF9-4852-981E-D982B8601CD8}
+		{53E23FB7-4CDC-4773-B967-44356DBD04FB} = {AE79AE8C-1BF9-4852-981E-D982B8601CD8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

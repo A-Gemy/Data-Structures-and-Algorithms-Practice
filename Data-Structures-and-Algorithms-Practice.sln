@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-Phonebook-Application", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-Track-Unique-Visitors-to-Website", "02-Dictionary-HashSet\06-Track-Unique-Visitors-to-Website\06-Track-Unique-Visitors-to-Website.csproj", "{A2066E9B-4BB8-4D49-99AF-F9D0FAD0F697}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-Check-for-Duplicate-Entries-in-Real-Time", "02-Dictionary-HashSet\07-Check-for-Duplicate-Entries-in-Real-Time\07-Check-for-Duplicate-Entries-in-Real-Time.csproj", "{7C9598F6-6D8A-4045-A718-83400386278E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{A2066E9B-4BB8-4D49-99AF-F9D0FAD0F697}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2066E9B-4BB8-4D49-99AF-F9D0FAD0F697}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2066E9B-4BB8-4D49-99AF-F9D0FAD0F697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C9598F6-6D8A-4045-A718-83400386278E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C9598F6-6D8A-4045-A718-83400386278E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C9598F6-6D8A-4045-A718-83400386278E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C9598F6-6D8A-4045-A718-83400386278E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -278,6 +284,7 @@ Global
 		{2AEFAA68-1396-492A-BDBD-153474C05C88} = {AE79AE8C-1BF9-4852-981E-D982B8601CD8}
 		{2E4B1C1A-2C4F-4D50-ADEE-45BB55FA4BEC} = {AE79AE8C-1BF9-4852-981E-D982B8601CD8}
 		{A2066E9B-4BB8-4D49-99AF-F9D0FAD0F697} = {AE79AE8C-1BF9-4852-981E-D982B8601CD8}
+		{7C9598F6-6D8A-4045-A718-83400386278E} = {AE79AE8C-1BF9-4852-981E-D982B8601CD8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

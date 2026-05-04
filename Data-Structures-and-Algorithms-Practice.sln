@@ -93,6 +93,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-Dynamic-Skill-Matching",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-Find-the-Frequency-of-Each-Character", "02-Dictionary-HashSet\09-Find-the-Frequency-of-Each-Character\09-Find-the-Frequency-of-Each-Character.csproj", "{C2771551-99DA-421D-9E1E-1431BB7E8D43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-Find-Longest-Consecutive-Sequence", "02-Dictionary-HashSet\10-Find-Longest-Consecutive-Sequence\10-Find-Longest-Consecutive-Sequence.csproj", "{310E22A5-A5FB-4F1B-9AE7-C4D18BAE3E47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{C2771551-99DA-421D-9E1E-1431BB7E8D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2771551-99DA-421D-9E1E-1431BB7E8D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2771551-99DA-421D-9E1E-1431BB7E8D43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{310E22A5-A5FB-4F1B-9AE7-C4D18BAE3E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310E22A5-A5FB-4F1B-9AE7-C4D18BAE3E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310E22A5-A5FB-4F1B-9AE7-C4D18BAE3E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310E22A5-A5FB-4F1B-9AE7-C4D18BAE3E47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -299,6 +305,7 @@ Global
 		{7C9598F6-6D8A-4045-A718-83400386278E} = {AE79AE8C-1BF9-4852-981E-D982B8601CD8}
 		{75571E0D-96EC-4CB8-8349-53F4A0ED8200} = {AE79AE8C-1BF9-4852-981E-D982B8601CD8}
 		{C2771551-99DA-421D-9E1E-1431BB7E8D43} = {AE79AE8C-1BF9-4852-981E-D982B8601CD8}
+		{310E22A5-A5FB-4F1B-9AE7-C4D18BAE3E47} = {AE79AE8C-1BF9-4852-981E-D982B8601CD8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

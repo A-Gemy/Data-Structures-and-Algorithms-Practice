@@ -99,6 +99,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-Find-Majority-Element", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-Find-Duplicate-Elements", "02-Dictionary-HashSet\12-Find-Duplicate-Elements\12-Find-Duplicate-Elements.csproj", "{3A61BAFE-E88C-4601-8FCA-209268226E6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-Find-All-Unique-Elements", "02-Dictionary-HashSet\13-Find-All-Unique-Elements\13-Find-All-Unique-Elements.csproj", "{16ADDB74-C13F-4FBD-A680-78A0C86D09A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{3A61BAFE-E88C-4601-8FCA-209268226E6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A61BAFE-E88C-4601-8FCA-209268226E6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A61BAFE-E88C-4601-8FCA-209268226E6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16ADDB74-C13F-4FBD-A680-78A0C86D09A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16ADDB74-C13F-4FBD-A680-78A0C86D09A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16ADDB74-C13F-4FBD-A680-78A0C86D09A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16ADDB74-C13F-4FBD-A680-78A0C86D09A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -320,6 +326,7 @@ Global
 		{310E22A5-A5FB-4F1B-9AE7-C4D18BAE3E47} = {AE79AE8C-1BF9-4852-981E-D982B8601CD8}
 		{486C407D-F6ED-41F0-8DEB-F09A877F19F3} = {AE79AE8C-1BF9-4852-981E-D982B8601CD8}
 		{3A61BAFE-E88C-4601-8FCA-209268226E6B} = {AE79AE8C-1BF9-4852-981E-D982B8601CD8}
+		{16ADDB74-C13F-4FBD-A680-78A0C86D09A9} = {AE79AE8C-1BF9-4852-981E-D982B8601CD8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

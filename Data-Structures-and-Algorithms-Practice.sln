@@ -74,6 +74,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-Dictionary-HashSet", "02-Dictionary-HashSet", "{AE79AE8C-1BF9-4852-981E-D982B8601CD8}"
+	ProjectSection(SolutionItems) = preProject
+		02-Dictionary-HashSet\README.md = 02-Dictionary-HashSet\README.md
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Store-Retrieve-Student-Grades", "02-Dictionary-HashSet\01-Store-Retrieve-Student-Grades\01-Store-Retrieve-Student-Grades.csproj", "{419BFDAC-53A5-44C0-A0AA-0DF0198AA764}"
 EndProject

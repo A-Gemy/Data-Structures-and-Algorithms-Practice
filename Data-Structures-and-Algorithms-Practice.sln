@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.31903.59
+# Visual Studio Version 18
+VisualStudioVersion = 18.7.11911.148 stable
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Browser-Back-Button", "01-Queue-Stack\01-Browser-Back-Button\01-Browser-Back-Button.csproj", "{DB1EB131-5965-43BF-885A-C901673C1A15}"
 EndProject
@@ -108,6 +108,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-Find-Common-Characters-in-Strings", "02-Dictionary-HashSet\16-Find-Common-Characters-in-Strings\16-Find-Common-Characters-in-Strings.csproj", "{CCCDA2EF-E707-4D94-B025-6726D2DD4B24}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-Find-Elements-Not-in-the-Second-Array", "02-Dictionary-HashSet\17-Find-Elements-Not-in-the-Second-Array\17-Find-Elements-Not-in-the-Second-Array.csproj", "{70B5D916-6F50-411F-8D19-CBDF74BB2928}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-Find-Numbers-Disappeared-in-Array", "02-Dictionary-HashSet\18-Find-Numbers-Disappeared-in-Array\18-Find-Numbers-Disappeared-in-Array.csproj", "{E6EB1A08-1873-4CB5-A7C6-A8A978341B26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -303,6 +305,10 @@ Global
 		{70B5D916-6F50-411F-8D19-CBDF74BB2928}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70B5D916-6F50-411F-8D19-CBDF74BB2928}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70B5D916-6F50-411F-8D19-CBDF74BB2928}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6EB1A08-1873-4CB5-A7C6-A8A978341B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6EB1A08-1873-4CB5-A7C6-A8A978341B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6EB1A08-1873-4CB5-A7C6-A8A978341B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6EB1A08-1873-4CB5-A7C6-A8A978341B26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -355,6 +361,7 @@ Global
 		{EA17661A-DDB2-440B-B99C-5B2F2724D8CE} = {AE79AE8C-1BF9-4852-981E-D982B8601CD8}
 		{CCCDA2EF-E707-4D94-B025-6726D2DD4B24} = {AE79AE8C-1BF9-4852-981E-D982B8601CD8}
 		{70B5D916-6F50-411F-8D19-CBDF74BB2928} = {AE79AE8C-1BF9-4852-981E-D982B8601CD8}
+		{E6EB1A08-1873-4CB5-A7C6-A8A978341B26} = {AE79AE8C-1BF9-4852-981E-D982B8601CD8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

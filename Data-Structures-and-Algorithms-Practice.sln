@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37411.7 d17.14
+VisualStudioVersion = 17.14.37411.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Browser-Back-Button", "01-Queue-Stack\01-Browser-Back-Button\01-Browser-Back-Button.csproj", "{DB1EB131-5965-43BF-885A-C901673C1A15}"
 EndProject
@@ -129,6 +129,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Remove-Elements-Greater-Than-Value", "03-SortedList\04-Remove-Elements-Greater-Than-Value\04-Remove-Elements-Greater-Than-Value.csproj", "{E9BB30B0-A05A-411E-BA5F-D082C50BA852}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-Find-Elements-Less-Than-Value", "03-SortedList\05-Find-Elements-Less-Than-Value\05-Find-Elements-Less-Than-Value.csproj", "{DB323760-E2C2-413B-8104-81259AA53551}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-Count-Elements-Greater-Than-Value", "03-SortedList\06-Count-Elements-Greater-Than-Value\06-Count-Elements-Greater-Than-Value.csproj", "{F0A2D9D1-6E44-4587-BE20-479E9894E8C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -356,6 +358,10 @@ Global
 		{DB323760-E2C2-413B-8104-81259AA53551}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB323760-E2C2-413B-8104-81259AA53551}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB323760-E2C2-413B-8104-81259AA53551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0A2D9D1-6E44-4587-BE20-479E9894E8C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0A2D9D1-6E44-4587-BE20-479E9894E8C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0A2D9D1-6E44-4587-BE20-479E9894E8C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0A2D9D1-6E44-4587-BE20-479E9894E8C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -416,6 +422,7 @@ Global
 		{38CDCD44-239C-4A1C-A3FD-64C87F601C57} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
 		{E9BB30B0-A05A-411E-BA5F-D082C50BA852} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
 		{DB323760-E2C2-413B-8104-81259AA53551} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
+		{F0A2D9D1-6E44-4587-BE20-479E9894E8C6} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

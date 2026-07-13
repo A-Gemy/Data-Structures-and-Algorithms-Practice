@@ -128,6 +128,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-Union-of-Two-SortedSets"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Remove-Elements-Greater-Than-Value", "03-SortedList\04-Remove-Elements-Greater-Than-Value\04-Remove-Elements-Greater-Than-Value.csproj", "{E9BB30B0-A05A-411E-BA5F-D082C50BA852}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-Find-Elements-Less-Than-Value", "03-SortedList\05-Find-Elements-Less-Than-Value\05-Find-Elements-Less-Than-Value.csproj", "{DB323760-E2C2-413B-8104-81259AA53551}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -350,6 +352,10 @@ Global
 		{E9BB30B0-A05A-411E-BA5F-D082C50BA852}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9BB30B0-A05A-411E-BA5F-D082C50BA852}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9BB30B0-A05A-411E-BA5F-D082C50BA852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB323760-E2C2-413B-8104-81259AA53551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB323760-E2C2-413B-8104-81259AA53551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB323760-E2C2-413B-8104-81259AA53551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB323760-E2C2-413B-8104-81259AA53551}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -409,6 +415,7 @@ Global
 		{137A6F72-FE5C-4347-988A-7C00116239D9} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
 		{38CDCD44-239C-4A1C-A3FD-64C87F601C57} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
 		{E9BB30B0-A05A-411E-BA5F-D082C50BA852} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
+		{DB323760-E2C2-413B-8104-81259AA53551} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

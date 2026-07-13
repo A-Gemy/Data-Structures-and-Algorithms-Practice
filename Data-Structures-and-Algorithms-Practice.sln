@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 18
-VisualStudioVersion = 18.7.11911.148
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37411.7 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Browser-Back-Button", "01-Queue-Stack\01-Browser-Back-Button\01-Browser-Back-Button.csproj", "{DB1EB131-5965-43BF-885A-C901673C1A15}"
 EndProject
@@ -125,6 +125,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Find-Elements-in-Range", "03-SortedList\01-Find-Elements-in-Range\01-Find-Elements-in-Range.csproj", "{137A6F72-FE5C-4347-988A-7C00116239D9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-Union-of-Two-SortedSets", "03-SortedList\03-Union-of-Two-SortedSets\03-Union-of-Two-SortedSets.csproj", "{38CDCD44-239C-4A1C-A3FD-64C87F601C57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Remove-Elements-Greater-Than-Value", "03-SortedList\04-Remove-Elements-Greater-Than-Value\04-Remove-Elements-Greater-Than-Value.csproj", "{E9BB30B0-A05A-411E-BA5F-D082C50BA852}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -344,6 +346,10 @@ Global
 		{38CDCD44-239C-4A1C-A3FD-64C87F601C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38CDCD44-239C-4A1C-A3FD-64C87F601C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38CDCD44-239C-4A1C-A3FD-64C87F601C57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9BB30B0-A05A-411E-BA5F-D082C50BA852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9BB30B0-A05A-411E-BA5F-D082C50BA852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9BB30B0-A05A-411E-BA5F-D082C50BA852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9BB30B0-A05A-411E-BA5F-D082C50BA852}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -402,6 +408,7 @@ Global
 		{08BB0489-F43B-4CDB-A9D0-2667C5817E74} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
 		{137A6F72-FE5C-4347-988A-7C00116239D9} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
 		{38CDCD44-239C-4A1C-A3FD-64C87F601C57} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
+		{E9BB30B0-A05A-411E-BA5F-D082C50BA852} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

@@ -134,6 +134,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-Count-Elements-Greater-T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-Remove-All-Elements-Within-Range", "03-SortedList\07-Remove-All-Elements-Within-Range\07-Remove-All-Elements-Within-Range.csproj", "{CD57D428-49B3-4AC1-B68C-AAF68FF40F05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-Find-All-Elements-Not-in-Range", "03-SortedList\08-Find-All-Elements-Not-in-Range\08-Find-All-Elements-Not-in-Range.csproj", "{ED2C1D58-3C68-411B-868E-52B641CD7495}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -368,6 +370,10 @@ Global
 		{CD57D428-49B3-4AC1-B68C-AAF68FF40F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD57D428-49B3-4AC1-B68C-AAF68FF40F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD57D428-49B3-4AC1-B68C-AAF68FF40F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED2C1D58-3C68-411B-868E-52B641CD7495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED2C1D58-3C68-411B-868E-52B641CD7495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED2C1D58-3C68-411B-868E-52B641CD7495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED2C1D58-3C68-411B-868E-52B641CD7495}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -430,6 +436,7 @@ Global
 		{DB323760-E2C2-413B-8104-81259AA53551} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
 		{F0A2D9D1-6E44-4587-BE20-479E9894E8C6} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
 		{CD57D428-49B3-4AC1-B68C-AAF68FF40F05} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
+		{ED2C1D58-3C68-411B-868E-52B641CD7495} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

@@ -138,6 +138,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-Find-All-Elements-Not-in
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-Count-of-Elements-Less-Than-or-Equal-to-Value", "03-SortedList\09-Count-of-Elements-Less-Than-or-Equal-to-Value\09-Count-of-Elements-Less-Than-or-Equal-to-Value.csproj", "{27FEC0E8-0874-4F2F-8714-D8115073D2CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-Check-If-Set-Contains-Multiple-Ranges", "03-SortedList\10-Check-If-Set-Contains-Multiple-Ranges\10-Check-If-Set-Contains-Multiple-Ranges.csproj", "{C436B1B1-E63B-44CD-B713-4904721516CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -380,6 +382,10 @@ Global
 		{27FEC0E8-0874-4F2F-8714-D8115073D2CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27FEC0E8-0874-4F2F-8714-D8115073D2CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27FEC0E8-0874-4F2F-8714-D8115073D2CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C436B1B1-E63B-44CD-B713-4904721516CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C436B1B1-E63B-44CD-B713-4904721516CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C436B1B1-E63B-44CD-B713-4904721516CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C436B1B1-E63B-44CD-B713-4904721516CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -444,6 +450,7 @@ Global
 		{CD57D428-49B3-4AC1-B68C-AAF68FF40F05} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
 		{ED2C1D58-3C68-411B-868E-52B641CD7495} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
 		{27FEC0E8-0874-4F2F-8714-D8115073D2CD} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
+		{C436B1B1-E63B-44CD-B713-4904721516CF} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

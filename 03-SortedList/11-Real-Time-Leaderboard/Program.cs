@@ -7,7 +7,7 @@ namespace Real_Time_Leaderboard
     {
         private static void AddOrUpdatePlayerScore(SortedList<string, int> leaderboard, string playerName, int score)
         {
-            if (leaderboard == null || string.IsNullOrEmpty(playerName))
+            if (leaderboard == null || string.IsNullOrWhiteSpace(playerName))
                 return;
 
             if (leaderboard.ContainsKey(playerName))

@@ -140,6 +140,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-Count-of-Elements-Less-T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-Check-If-Set-Contains-Multiple-Ranges", "03-SortedList\10-Check-If-Set-Contains-Multiple-Ranges\10-Check-If-Set-Contains-Multiple-Ranges.csproj", "{C436B1B1-E63B-44CD-B713-4904721516CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-Real-Time-Leaderboard", "03-SortedList\11-Real-Time-Leaderboard\11-Real-Time-Leaderboard.csproj", "{2F777E94-F5A2-4DCD-8C46-784ED16185B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -386,6 +388,10 @@ Global
 		{C436B1B1-E63B-44CD-B713-4904721516CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C436B1B1-E63B-44CD-B713-4904721516CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C436B1B1-E63B-44CD-B713-4904721516CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F777E94-F5A2-4DCD-8C46-784ED16185B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F777E94-F5A2-4DCD-8C46-784ED16185B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F777E94-F5A2-4DCD-8C46-784ED16185B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F777E94-F5A2-4DCD-8C46-784ED16185B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -451,6 +457,7 @@ Global
 		{ED2C1D58-3C68-411B-868E-52B641CD7495} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
 		{27FEC0E8-0874-4F2F-8714-D8115073D2CD} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
 		{C436B1B1-E63B-44CD-B713-4904721516CF} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
+		{2F777E94-F5A2-4DCD-8C46-784ED16185B8} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

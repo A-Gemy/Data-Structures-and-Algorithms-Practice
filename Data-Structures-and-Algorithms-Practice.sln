@@ -149,6 +149,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-ObservableCollection", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Dynamic-List-of-Students", "04-ObservableCollection\01-Dynamic-List-of-Students\01-Dynamic-List-of-Students.csproj", "{38BE35DC-EB7E-424D-9D9B-455CDD0ABBD5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Shopping-Cart-for-an-E-commerce-App", "04-ObservableCollection\02-Shopping-Cart-for-an-E-commerce-App\02-Shopping-Cart-for-an-E-commerce-App.csproj", "{BE5CF613-EA5B-4EEC-B65C-D5904F5DDBEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -403,6 +405,10 @@ Global
 		{38BE35DC-EB7E-424D-9D9B-455CDD0ABBD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38BE35DC-EB7E-424D-9D9B-455CDD0ABBD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38BE35DC-EB7E-424D-9D9B-455CDD0ABBD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE5CF613-EA5B-4EEC-B65C-D5904F5DDBEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE5CF613-EA5B-4EEC-B65C-D5904F5DDBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE5CF613-EA5B-4EEC-B65C-D5904F5DDBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE5CF613-EA5B-4EEC-B65C-D5904F5DDBEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -470,6 +476,7 @@ Global
 		{C436B1B1-E63B-44CD-B713-4904721516CF} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
 		{2F777E94-F5A2-4DCD-8C46-784ED16185B8} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
 		{38BE35DC-EB7E-424D-9D9B-455CDD0ABBD5} = {9136FD44-BD0D-4AA7-8131-80452E48B3D2}
+		{BE5CF613-EA5B-4EEC-B65C-D5904F5DDBEF} = {9136FD44-BD0D-4AA7-8131-80452E48B3D2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

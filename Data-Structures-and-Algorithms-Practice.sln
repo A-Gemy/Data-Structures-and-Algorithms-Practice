@@ -155,6 +155,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-Real-Time-Stock-Prices",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Task-Management-System", "04-ObservableCollection\04-Task-Management-System\04-Task-Management-System.csproj", "{7B66F1F5-56CF-4927-B99E-B0ACD01AE5B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-Live-Chat-Application", "04-ObservableCollection\05-Live-Chat-Application\05-Live-Chat-Application.csproj", "{1F0EBF65-7C14-4CC6-B6CE-C80D27713A65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -421,6 +423,10 @@ Global
 		{7B66F1F5-56CF-4927-B99E-B0ACD01AE5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B66F1F5-56CF-4927-B99E-B0ACD01AE5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B66F1F5-56CF-4927-B99E-B0ACD01AE5B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F0EBF65-7C14-4CC6-B6CE-C80D27713A65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0EBF65-7C14-4CC6-B6CE-C80D27713A65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0EBF65-7C14-4CC6-B6CE-C80D27713A65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0EBF65-7C14-4CC6-B6CE-C80D27713A65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -491,6 +497,7 @@ Global
 		{BE5CF613-EA5B-4EEC-B65C-D5904F5DDBEF} = {9136FD44-BD0D-4AA7-8131-80452E48B3D2}
 		{0BC129D4-ED36-43C4-9C8E-D7C4C5437858} = {9136FD44-BD0D-4AA7-8131-80452E48B3D2}
 		{7B66F1F5-56CF-4927-B99E-B0ACD01AE5B9} = {9136FD44-BD0D-4AA7-8131-80452E48B3D2}
+		{1F0EBF65-7C14-4CC6-B6CE-C80D27713A65} = {9136FD44-BD0D-4AA7-8131-80452E48B3D2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

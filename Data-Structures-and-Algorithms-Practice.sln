@@ -151,6 +151,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Dynamic-List-of-Students
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Shopping-Cart-for-an-E-commerce-App", "04-ObservableCollection\02-Shopping-Cart-for-an-E-commerce-App\02-Shopping-Cart-for-an-E-commerce-App.csproj", "{BE5CF613-EA5B-4EEC-B65C-D5904F5DDBEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-Real-Time-Stock-Prices", "04-ObservableCollection\03-Real-Time-Stock-Prices\03-Real-Time-Stock-Prices.csproj", "{0BC129D4-ED36-43C4-9C8E-D7C4C5437858}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -409,6 +411,10 @@ Global
 		{BE5CF613-EA5B-4EEC-B65C-D5904F5DDBEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE5CF613-EA5B-4EEC-B65C-D5904F5DDBEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE5CF613-EA5B-4EEC-B65C-D5904F5DDBEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BC129D4-ED36-43C4-9C8E-D7C4C5437858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC129D4-ED36-43C4-9C8E-D7C4C5437858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC129D4-ED36-43C4-9C8E-D7C4C5437858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC129D4-ED36-43C4-9C8E-D7C4C5437858}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -477,6 +483,7 @@ Global
 		{2F777E94-F5A2-4DCD-8C46-784ED16185B8} = {A5277E0B-118D-4D50-8715-F6D83AFFE24F}
 		{38BE35DC-EB7E-424D-9D9B-455CDD0ABBD5} = {9136FD44-BD0D-4AA7-8131-80452E48B3D2}
 		{BE5CF613-EA5B-4EEC-B65C-D5904F5DDBEF} = {9136FD44-BD0D-4AA7-8131-80452E48B3D2}
+		{0BC129D4-ED36-43C4-9C8E-D7C4C5437858} = {9136FD44-BD0D-4AA7-8131-80452E48B3D2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

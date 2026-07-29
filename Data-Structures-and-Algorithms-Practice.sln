@@ -146,6 +146,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-Real-Time-Leaderboard", "03-SortedList\11-Real-Time-Leaderboard\11-Real-Time-Leaderboard.csproj", "{2F777E94-F5A2-4DCD-8C46-784ED16185B8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-ObservableCollection", "04-ObservableCollection", "{9136FD44-BD0D-4AA7-8131-80452E48B3D2}"
+	ProjectSection(SolutionItems) = preProject
+		04-ObservableCollection\README.md = 04-ObservableCollection\README.md
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Dynamic-List-of-Students", "04-ObservableCollection\01-Dynamic-List-of-Students\01-Dynamic-List-of-Students.csproj", "{38BE35DC-EB7E-424D-9D9B-455CDD0ABBD5}"
 EndProject

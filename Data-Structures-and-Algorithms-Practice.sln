@@ -153,6 +153,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Shopping-Cart-for-an-E-c
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-Real-Time-Stock-Prices", "04-ObservableCollection\03-Real-Time-Stock-Prices\03-Real-Time-Stock-Prices.csproj", "{0BC129D4-ED36-43C4-9C8E-D7C4C5437858}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Task-Management-System", "04-ObservableCollection\04-Task-Management-System\04-Task-Management-System.csproj", "{7B66F1F5-56CF-4927-B99E-B0ACD01AE5B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -415,6 +417,10 @@ Global
 		{0BC129D4-ED36-43C4-9C8E-D7C4C5437858}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BC129D4-ED36-43C4-9C8E-D7C4C5437858}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BC129D4-ED36-43C4-9C8E-D7C4C5437858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B66F1F5-56CF-4927-B99E-B0ACD01AE5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B66F1F5-56CF-4927-B99E-B0ACD01AE5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B66F1F5-56CF-4927-B99E-B0ACD01AE5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B66F1F5-56CF-4927-B99E-B0ACD01AE5B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -484,6 +490,7 @@ Global
 		{38BE35DC-EB7E-424D-9D9B-455CDD0ABBD5} = {9136FD44-BD0D-4AA7-8131-80452E48B3D2}
 		{BE5CF613-EA5B-4EEC-B65C-D5904F5DDBEF} = {9136FD44-BD0D-4AA7-8131-80452E48B3D2}
 		{0BC129D4-ED36-43C4-9C8E-D7C4C5437858} = {9136FD44-BD0D-4AA7-8131-80452E48B3D2}
+		{7B66F1F5-56CF-4927-B99E-B0ACD01AE5B9} = {9136FD44-BD0D-4AA7-8131-80452E48B3D2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

@@ -164,6 +164,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-Dynamic-Weather-Updates"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-Real-Time-Notification-System", "04-ObservableCollection\07-Real-Time-Notification-System\07-Real-Time-Notification-System.csproj", "{A27D4FE6-A75C-4047-AEA3-CF2DCE6C57AC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05-JaggedArray", "05-JaggedArray", "{476D785E-24D6-40B0-B68F-B407398A28CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Students-Marks", "05-JaggedArray\01-Students-Marks\01-Students-Marks.csproj", "{FAF8D6F0-A884-4007-99F0-B4FCF0C3FC5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -442,6 +446,10 @@ Global
 		{A27D4FE6-A75C-4047-AEA3-CF2DCE6C57AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A27D4FE6-A75C-4047-AEA3-CF2DCE6C57AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A27D4FE6-A75C-4047-AEA3-CF2DCE6C57AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF8D6F0-A884-4007-99F0-B4FCF0C3FC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF8D6F0-A884-4007-99F0-B4FCF0C3FC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF8D6F0-A884-4007-99F0-B4FCF0C3FC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF8D6F0-A884-4007-99F0-B4FCF0C3FC5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -515,6 +523,7 @@ Global
 		{1F0EBF65-7C14-4CC6-B6CE-C80D27713A65} = {9136FD44-BD0D-4AA7-8131-80452E48B3D2}
 		{ED73DA44-2161-4F73-8126-3204B3DDA38D} = {9136FD44-BD0D-4AA7-8131-80452E48B3D2}
 		{A27D4FE6-A75C-4047-AEA3-CF2DCE6C57AC} = {9136FD44-BD0D-4AA7-8131-80452E48B3D2}
+		{FAF8D6F0-A884-4007-99F0-B4FCF0C3FC5D} = {476D785E-24D6-40B0-B68F-B407398A28CD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

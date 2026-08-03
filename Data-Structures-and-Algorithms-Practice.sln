@@ -168,6 +168,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05-JaggedArray", "05-Jagged
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Students-Marks", "05-JaggedArray\01-Students-Marks\01-Students-Marks.csproj", "{FAF8D6F0-A884-4007-99F0-B4FCF0C3FC5D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Store-Sales", "05-JaggedArray\02-Store-Sales\02-Store-Sales.csproj", "{49D7B053-F70E-4E45-ABC8-D4F718E4CFD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -450,6 +452,10 @@ Global
 		{FAF8D6F0-A884-4007-99F0-B4FCF0C3FC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAF8D6F0-A884-4007-99F0-B4FCF0C3FC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAF8D6F0-A884-4007-99F0-B4FCF0C3FC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49D7B053-F70E-4E45-ABC8-D4F718E4CFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49D7B053-F70E-4E45-ABC8-D4F718E4CFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49D7B053-F70E-4E45-ABC8-D4F718E4CFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49D7B053-F70E-4E45-ABC8-D4F718E4CFD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -524,6 +530,7 @@ Global
 		{ED73DA44-2161-4F73-8126-3204B3DDA38D} = {9136FD44-BD0D-4AA7-8131-80452E48B3D2}
 		{A27D4FE6-A75C-4047-AEA3-CF2DCE6C57AC} = {9136FD44-BD0D-4AA7-8131-80452E48B3D2}
 		{FAF8D6F0-A884-4007-99F0-B4FCF0C3FC5D} = {476D785E-24D6-40B0-B68F-B407398A28CD}
+		{49D7B053-F70E-4E45-ABC8-D4F718E4CFD5} = {476D785E-24D6-40B0-B68F-B407398A28CD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

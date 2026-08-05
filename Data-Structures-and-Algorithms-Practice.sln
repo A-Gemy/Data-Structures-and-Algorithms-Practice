@@ -172,6 +172,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Store-Sales", "05-Jagged
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-Seating-Arrangement", "05-JaggedArray\03-Seating-Arrangement\03-Seating-Arrangement.csproj", "{7CD833D0-EA08-4D51-984C-B401020A6FE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Daily-Products-Sales", "05-JaggedArray\04-Daily-Products-Sales\04-Daily-Products-Sales.csproj", "{EF139A36-A4DC-4EBA-B05F-3459D9FA7B81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -462,6 +464,10 @@ Global
 		{7CD833D0-EA08-4D51-984C-B401020A6FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CD833D0-EA08-4D51-984C-B401020A6FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CD833D0-EA08-4D51-984C-B401020A6FE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF139A36-A4DC-4EBA-B05F-3459D9FA7B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF139A36-A4DC-4EBA-B05F-3459D9FA7B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF139A36-A4DC-4EBA-B05F-3459D9FA7B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF139A36-A4DC-4EBA-B05F-3459D9FA7B81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -538,6 +544,7 @@ Global
 		{FAF8D6F0-A884-4007-99F0-B4FCF0C3FC5D} = {476D785E-24D6-40B0-B68F-B407398A28CD}
 		{49D7B053-F70E-4E45-ABC8-D4F718E4CFD5} = {476D785E-24D6-40B0-B68F-B407398A28CD}
 		{7CD833D0-EA08-4D51-984C-B401020A6FE7} = {476D785E-24D6-40B0-B68F-B407398A28CD}
+		{EF139A36-A4DC-4EBA-B05F-3459D9FA7B81} = {476D785E-24D6-40B0-B68F-B407398A28CD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

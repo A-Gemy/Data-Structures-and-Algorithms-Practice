@@ -31,7 +31,7 @@ namespace Daily_Products_Sales
         static void Main()
         {
             int[][] productSales =
-{
+            {
                 new int[] { 100, 120, 90 },
                 new int[] { 200, 180 },
                 new int[] { 75, 80, 85, 95 }

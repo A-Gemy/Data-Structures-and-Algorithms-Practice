@@ -186,6 +186,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Return-Multiple-Values-f
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Track-Player-Stats-in-a-Game", "06-Tuples\02-Track-Player-Stats-in-a-Game\02-Track-Player-Stats-in-a-Game.csproj", "{B361B5F9-3A32-452A-823F-A9112BF6A07A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-Store-and-Compare-Employee-Details", "03-Store-and-Compare-Employee-Details\03-Store-and-Compare-Employee-Details.csproj", "{B3F65EFC-6952-4D28-8853-09E9D593212E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -500,6 +502,10 @@ Global
 		{B361B5F9-3A32-452A-823F-A9112BF6A07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B361B5F9-3A32-452A-823F-A9112BF6A07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B361B5F9-3A32-452A-823F-A9112BF6A07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3F65EFC-6952-4D28-8853-09E9D593212E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F65EFC-6952-4D28-8853-09E9D593212E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F65EFC-6952-4D28-8853-09E9D593212E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F65EFC-6952-4D28-8853-09E9D593212E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -582,6 +588,7 @@ Global
 		{0ADB7F6B-9D43-4A3A-AE98-E124FE879366} = {476D785E-24D6-40B0-B68F-B407398A28CD}
 		{E35DCE60-314D-475D-8F1E-943ADB002A14} = {FEA4CDE5-C9F0-44CB-82A0-2EB0C71A96CF}
 		{B361B5F9-3A32-452A-823F-A9112BF6A07A} = {FEA4CDE5-C9F0-44CB-82A0-2EB0C71A96CF}
+		{B3F65EFC-6952-4D28-8853-09E9D593212E} = {FEA4CDE5-C9F0-44CB-82A0-2EB0C71A96CF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

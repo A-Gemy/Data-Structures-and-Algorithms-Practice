@@ -188,6 +188,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Track-Player-Stats-in-a-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-Store-and-Compare-Employee-Details", "06-Tuples\03-Store-and-Compare-Employee-Details\03-Store-and-Compare-Employee-Details.csproj", "{B3F65EFC-6952-4D28-8853-09E9D593212E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Student-Mark-Status", "06-Tuples\04-Student-Mark-Status\04-Student-Mark-Status.csproj", "{34C1CCF8-9419-4A24-8E92-DFB3BB284F60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -506,6 +508,10 @@ Global
 		{B3F65EFC-6952-4D28-8853-09E9D593212E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3F65EFC-6952-4D28-8853-09E9D593212E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3F65EFC-6952-4D28-8853-09E9D593212E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34C1CCF8-9419-4A24-8E92-DFB3BB284F60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C1CCF8-9419-4A24-8E92-DFB3BB284F60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C1CCF8-9419-4A24-8E92-DFB3BB284F60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C1CCF8-9419-4A24-8E92-DFB3BB284F60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -589,6 +595,7 @@ Global
 		{E35DCE60-314D-475D-8F1E-943ADB002A14} = {FEA4CDE5-C9F0-44CB-82A0-2EB0C71A96CF}
 		{B361B5F9-3A32-452A-823F-A9112BF6A07A} = {FEA4CDE5-C9F0-44CB-82A0-2EB0C71A96CF}
 		{B3F65EFC-6952-4D28-8853-09E9D593212E} = {FEA4CDE5-C9F0-44CB-82A0-2EB0C71A96CF}
+		{34C1CCF8-9419-4A24-8E92-DFB3BB284F60} = {FEA4CDE5-C9F0-44CB-82A0-2EB0C71A96CF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

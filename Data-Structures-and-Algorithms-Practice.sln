@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 18
-VisualStudioVersion = 18.10.12201.205 stable
+VisualStudioVersion = 18.10.12201.205
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Browser-Back-Button", "01-Queue-Stack\01-Browser-Back-Button\01-Browser-Back-Button.csproj", "{DB1EB131-5965-43BF-885A-C901673C1A15}"
 EndProject
@@ -186,7 +186,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Return-Multiple-Values-f
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-Track-Player-Stats-in-a-Game", "06-Tuples\02-Track-Player-Stats-in-a-Game\02-Track-Player-Stats-in-a-Game.csproj", "{B361B5F9-3A32-452A-823F-A9112BF6A07A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-Store-and-Compare-Employee-Details", "03-Store-and-Compare-Employee-Details\03-Store-and-Compare-Employee-Details.csproj", "{B3F65EFC-6952-4D28-8853-09E9D593212E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-Store-and-Compare-Employee-Details", "06-Tuples\03-Store-and-Compare-Employee-Details\03-Store-and-Compare-Employee-Details.csproj", "{B3F65EFC-6952-4D28-8853-09E9D593212E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

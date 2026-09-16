@@ -204,6 +204,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Light-Control-System", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-User-Survey-Results", "07-BitArray\02-User-Survey-Results\02-User-Survey-Results.csproj", "{73DB690C-D510-4A9D-90D7-1E1E001A2AAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-Track-theater-seat-bookings", "07-BitArray\03-Track-theater-seat-bookings\03-Track-theater-seat-bookings.csproj", "{7D77153C-35D0-489C-AC9A-EE1F7849996A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -538,6 +540,10 @@ Global
 		{73DB690C-D510-4A9D-90D7-1E1E001A2AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73DB690C-D510-4A9D-90D7-1E1E001A2AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73DB690C-D510-4A9D-90D7-1E1E001A2AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D77153C-35D0-489C-AC9A-EE1F7849996A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D77153C-35D0-489C-AC9A-EE1F7849996A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D77153C-35D0-489C-AC9A-EE1F7849996A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D77153C-35D0-489C-AC9A-EE1F7849996A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -625,6 +631,7 @@ Global
 		{D08610A7-40D3-445B-8F5E-13E3B42B528F} = {FEA4CDE5-C9F0-44CB-82A0-2EB0C71A96CF}
 		{7D07CAB2-3B44-4FE7-AF1E-7E2B48CEEFE8} = {408B1155-B957-4C16-A390-9BE24AD57079}
 		{73DB690C-D510-4A9D-90D7-1E1E001A2AAD} = {408B1155-B957-4C16-A390-9BE24AD57079}
+		{7D77153C-35D0-489C-AC9A-EE1F7849996A} = {408B1155-B957-4C16-A390-9BE24AD57079}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

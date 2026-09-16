@@ -165,6 +165,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-Real-Time-Notification-System", "04-ObservableCollection\07-Real-Time-Notification-System\07-Real-Time-Notification-System.csproj", "{A27D4FE6-A75C-4047-AEA3-CF2DCE6C57AC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05-JaggedArray", "05-JaggedArray", "{476D785E-24D6-40B0-B68F-B407398A28CD}"
+	ProjectSection(SolutionItems) = preProject
+		05-JaggedArray\README.md = 05-JaggedArray\README.md
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Students-Marks", "05-JaggedArray\01-Students-Marks\01-Students-Marks.csproj", "{FAF8D6F0-A884-4007-99F0-B4FCF0C3FC5D}"
 EndProject
@@ -181,6 +184,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-City-Temperature", "05-JaggedArray\07-City-Temperature\07-City-Temperature.csproj", "{0ADB7F6B-9D43-4A3A-AE98-E124FE879366}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06-Tuples", "06-Tuples", "{FEA4CDE5-C9F0-44CB-82A0-2EB0C71A96CF}"
+	ProjectSection(SolutionItems) = preProject
+		06-Tuples\README.md = 06-Tuples\README.md
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Return-Multiple-Values-from-a-Function", "06-Tuples\01-Return-Multiple-Values-from-a-Function\01-Return-Multiple-Values-from-a-Function.csproj", "{E35DCE60-314D-475D-8F1E-943ADB002A14}"
 EndProject
@@ -191,6 +197,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Student-Mark-Status", "06-Tuples\04-Student-Mark-Status\04-Student-Mark-Status.csproj", "{34C1CCF8-9419-4A24-8E92-DFB3BB284F60}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-Simplified-Address-Representation", "06-Tuples\05-Simplified-Address-Representation\05-Simplified-Address-Representation.csproj", "{D08610A7-40D3-445B-8F5E-13E3B42B528F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07-BitArray", "07-BitArray", "{408B1155-B957-4C16-A390-9BE24AD57079}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Light-Control-System", "07-BitArray\01-Light-Control-System\01-Light-Control-System.csproj", "{7D07CAB2-3B44-4FE7-AF1E-7E2B48CEEFE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -518,6 +528,10 @@ Global
 		{D08610A7-40D3-445B-8F5E-13E3B42B528F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D08610A7-40D3-445B-8F5E-13E3B42B528F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D08610A7-40D3-445B-8F5E-13E3B42B528F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D07CAB2-3B44-4FE7-AF1E-7E2B48CEEFE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D07CAB2-3B44-4FE7-AF1E-7E2B48CEEFE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D07CAB2-3B44-4FE7-AF1E-7E2B48CEEFE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D07CAB2-3B44-4FE7-AF1E-7E2B48CEEFE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -603,6 +617,7 @@ Global
 		{B3F65EFC-6952-4D28-8853-09E9D593212E} = {FEA4CDE5-C9F0-44CB-82A0-2EB0C71A96CF}
 		{34C1CCF8-9419-4A24-8E92-DFB3BB284F60} = {FEA4CDE5-C9F0-44CB-82A0-2EB0C71A96CF}
 		{D08610A7-40D3-445B-8F5E-13E3B42B528F} = {FEA4CDE5-C9F0-44CB-82A0-2EB0C71A96CF}
+		{7D07CAB2-3B44-4FE7-AF1E-7E2B48CEEFE8} = {408B1155-B957-4C16-A390-9BE24AD57079}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

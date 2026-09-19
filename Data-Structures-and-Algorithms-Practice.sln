@@ -210,6 +210,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Scheduling-Tasks", "07-B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-Password-Strength-Checker", "07-BitArray\05-Password-Strength-Checker\05-Password-Strength-Checker.csproj", "{F24FD466-11F9-4E38-9763-F766197AD09B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-Password-Policy-Enforcement", "07-BitArray\06-Password-Policy-Enforcement\06-Password-Policy-Enforcement.csproj", "{C9F66281-BC84-43DF-834D-ADA322C90238}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -556,6 +558,10 @@ Global
 		{F24FD466-11F9-4E38-9763-F766197AD09B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F24FD466-11F9-4E38-9763-F766197AD09B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F24FD466-11F9-4E38-9763-F766197AD09B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9F66281-BC84-43DF-834D-ADA322C90238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F66281-BC84-43DF-834D-ADA322C90238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9F66281-BC84-43DF-834D-ADA322C90238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9F66281-BC84-43DF-834D-ADA322C90238}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -646,6 +652,7 @@ Global
 		{7D77153C-35D0-489C-AC9A-EE1F7849996A} = {408B1155-B957-4C16-A390-9BE24AD57079}
 		{54316051-A8A0-4F52-8736-F7921FC9D2AB} = {408B1155-B957-4C16-A390-9BE24AD57079}
 		{F24FD466-11F9-4E38-9763-F766197AD09B} = {408B1155-B957-4C16-A390-9BE24AD57079}
+		{C9F66281-BC84-43DF-834D-ADA322C90238} = {408B1155-B957-4C16-A390-9BE24AD57079}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

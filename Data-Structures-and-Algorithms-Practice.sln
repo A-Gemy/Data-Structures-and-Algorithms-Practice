@@ -214,6 +214,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-Password-Policy-Enforcem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-Traffic-Light-Simulation", "07-BitArray\07-Traffic-Light-Simulation\07-Traffic-Light-Simulation.csproj", "{FAA71388-404B-4EC1-BD13-DBA55174B0DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-Voting-System", "07-BitArray\08-Voting-System\08-Voting-System.csproj", "{5C7BF86D-06A6-410F-AA9C-1213188CAD51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -568,6 +570,10 @@ Global
 		{FAA71388-404B-4EC1-BD13-DBA55174B0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAA71388-404B-4EC1-BD13-DBA55174B0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAA71388-404B-4EC1-BD13-DBA55174B0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C7BF86D-06A6-410F-AA9C-1213188CAD51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7BF86D-06A6-410F-AA9C-1213188CAD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7BF86D-06A6-410F-AA9C-1213188CAD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7BF86D-06A6-410F-AA9C-1213188CAD51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -660,6 +666,7 @@ Global
 		{F24FD466-11F9-4E38-9763-F766197AD09B} = {408B1155-B957-4C16-A390-9BE24AD57079}
 		{C9F66281-BC84-43DF-834D-ADA322C90238} = {408B1155-B957-4C16-A390-9BE24AD57079}
 		{FAA71388-404B-4EC1-BD13-DBA55174B0DB} = {408B1155-B957-4C16-A390-9BE24AD57079}
+		{5C7BF86D-06A6-410F-AA9C-1213188CAD51} = {408B1155-B957-4C16-A390-9BE24AD57079}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

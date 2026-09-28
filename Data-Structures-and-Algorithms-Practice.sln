@@ -222,6 +222,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-BitArray-AND-Operation",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-BitArray-To-Integer", "07-BitArray\11-BitArray-To-Integer\11-BitArray-To-Integer.csproj", "{123AD7BB-4C36-4CF3-A207-80359B9727C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-Integer-To-BitArray", "07-BitArray\12-Integer-To-BitArray\12-Integer-To-BitArray.csproj", "{9802AB0F-039E-4BAA-A9DD-994F3381BBF3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -592,6 +594,10 @@ Global
 		{123AD7BB-4C36-4CF3-A207-80359B9727C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{123AD7BB-4C36-4CF3-A207-80359B9727C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{123AD7BB-4C36-4CF3-A207-80359B9727C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9802AB0F-039E-4BAA-A9DD-994F3381BBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9802AB0F-039E-4BAA-A9DD-994F3381BBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9802AB0F-039E-4BAA-A9DD-994F3381BBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9802AB0F-039E-4BAA-A9DD-994F3381BBF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -688,6 +694,7 @@ Global
 		{67E469E6-1E60-4556-93F7-11A0B2F44C32} = {408B1155-B957-4C16-A390-9BE24AD57079}
 		{F57AFEFB-4780-470E-8027-358119A6C098} = {408B1155-B957-4C16-A390-9BE24AD57079}
 		{123AD7BB-4C36-4CF3-A207-80359B9727C0} = {408B1155-B957-4C16-A390-9BE24AD57079}
+		{9802AB0F-039E-4BAA-A9DD-994F3381BBF3} = {408B1155-B957-4C16-A390-9BE24AD57079}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

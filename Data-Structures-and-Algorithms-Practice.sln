@@ -216,6 +216,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-Traffic-Light-Simulation
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08-Voting-System", "07-BitArray\08-Voting-System\08-Voting-System.csproj", "{5C7BF86D-06A6-410F-AA9C-1213188CAD51}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09-Bit-Status-Counter", "07-BitArray\09-Bit-Status-Counter\09-Bit-Status-Counter.csproj", "{67E469E6-1E60-4556-93F7-11A0B2F44C32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -574,6 +576,10 @@ Global
 		{5C7BF86D-06A6-410F-AA9C-1213188CAD51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C7BF86D-06A6-410F-AA9C-1213188CAD51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C7BF86D-06A6-410F-AA9C-1213188CAD51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E469E6-1E60-4556-93F7-11A0B2F44C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E469E6-1E60-4556-93F7-11A0B2F44C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E469E6-1E60-4556-93F7-11A0B2F44C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E469E6-1E60-4556-93F7-11A0B2F44C32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -667,6 +673,7 @@ Global
 		{C9F66281-BC84-43DF-834D-ADA322C90238} = {408B1155-B957-4C16-A390-9BE24AD57079}
 		{FAA71388-404B-4EC1-BD13-DBA55174B0DB} = {408B1155-B957-4C16-A390-9BE24AD57079}
 		{5C7BF86D-06A6-410F-AA9C-1213188CAD51} = {408B1155-B957-4C16-A390-9BE24AD57079}
+		{67E469E6-1E60-4556-93F7-11A0B2F44C32} = {408B1155-B957-4C16-A390-9BE24AD57079}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

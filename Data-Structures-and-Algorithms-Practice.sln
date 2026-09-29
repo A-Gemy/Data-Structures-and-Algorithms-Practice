@@ -199,6 +199,9 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-Simplified-Address-Representation", "06-Tuples\05-Simplified-Address-Representation\05-Simplified-Address-Representation.csproj", "{D08610A7-40D3-445B-8F5E-13E3B42B528F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07-BitArray", "07-BitArray", "{408B1155-B957-4C16-A390-9BE24AD57079}"
+	ProjectSection(SolutionItems) = preProject
+		07-BitArray\README.md = 07-BitArray\README.md
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Light-Control-System", "07-BitArray\01-Light-Control-System\01-Light-Control-System.csproj", "{7D07CAB2-3B44-4FE7-AF1E-7E2B48CEEFE8}"
 EndProject
@@ -223,6 +226,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-BitArray-To-Integer", "07-BitArray\11-BitArray-To-Integer\11-BitArray-To-Integer.csproj", "{123AD7BB-4C36-4CF3-A207-80359B9727C0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-Integer-To-BitArray", "07-BitArray\12-Integer-To-BitArray\12-Integer-To-BitArray.csproj", "{9802AB0F-039E-4BAA-A9DD-994F3381BBF3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08-HashTable-SortedList-SortedSet", "08-HashTable-SortedList-SortedSet", "{18AA31DE-AA4F-4C85-A2D1-C1A8D7A2348A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-Copy-Hashtable", "08-HashTable-SortedList-SortedSet\01-Copy-Hashtable\01-Copy-Hashtable.csproj", "{4A43517A-451C-4CC1-AEF2-6F600A54F321}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -598,6 +605,10 @@ Global
 		{9802AB0F-039E-4BAA-A9DD-994F3381BBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9802AB0F-039E-4BAA-A9DD-994F3381BBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9802AB0F-039E-4BAA-A9DD-994F3381BBF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A43517A-451C-4CC1-AEF2-6F600A54F321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A43517A-451C-4CC1-AEF2-6F600A54F321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A43517A-451C-4CC1-AEF2-6F600A54F321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A43517A-451C-4CC1-AEF2-6F600A54F321}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -695,6 +706,7 @@ Global
 		{F57AFEFB-4780-470E-8027-358119A6C098} = {408B1155-B957-4C16-A390-9BE24AD57079}
 		{123AD7BB-4C36-4CF3-A207-80359B9727C0} = {408B1155-B957-4C16-A390-9BE24AD57079}
 		{9802AB0F-039E-4BAA-A9DD-994F3381BBF3} = {408B1155-B957-4C16-A390-9BE24AD57079}
+		{4A43517A-451C-4CC1-AEF2-6F600A54F321} = {18AA31DE-AA4F-4C85-A2D1-C1A8D7A2348A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}

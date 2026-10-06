@@ -239,6 +239,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-Track-Active-Users", "08
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-Event-Timeline", "08-HashTable-SortedList-SortedSet\05-Event-Timeline\05-Event-Timeline.csproj", "{2DC5258B-5179-4B68-9E9E-149FCFE3D045}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-Organize-Movie-Showtimes", "08-HashTable-SortedList-SortedSet\06-Organize-Movie-Showtimes\06-Organize-Movie-Showtimes.csproj", "{D65C8D85-9F6B-409B-A9D5-4157EA291437}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -633,6 +635,10 @@ Global
 		{2DC5258B-5179-4B68-9E9E-149FCFE3D045}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DC5258B-5179-4B68-9E9E-149FCFE3D045}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DC5258B-5179-4B68-9E9E-149FCFE3D045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D65C8D85-9F6B-409B-A9D5-4157EA291437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65C8D85-9F6B-409B-A9D5-4157EA291437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65C8D85-9F6B-409B-A9D5-4157EA291437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65C8D85-9F6B-409B-A9D5-4157EA291437}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -735,6 +741,7 @@ Global
 		{5E3ECC9D-9DB2-4FEE-B65E-CD67850A3BAC} = {18AA31DE-AA4F-4C85-A2D1-C1A8D7A2348A}
 		{497D07D3-6C5C-4C9C-9D04-4E587B178AEE} = {18AA31DE-AA4F-4C85-A2D1-C1A8D7A2348A}
 		{2DC5258B-5179-4B68-9E9E-149FCFE3D045} = {18AA31DE-AA4F-4C85-A2D1-C1A8D7A2348A}
+		{D65C8D85-9F6B-409B-A9D5-4157EA291437} = {18AA31DE-AA4F-4C85-A2D1-C1A8D7A2348A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E87C3104-0B62-4876-A340-72D291946069}
